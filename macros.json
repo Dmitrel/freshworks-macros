@@ -17,10 +17,4 @@
     "EN": "Hello! How can I help you?",
     "VIP": "Welcome back VIP ⭐"
   },
-
-  "Hold": {
-    "2 min": "Please wait 2 minutes.",
-    "5 min": "Please wait 5 minutes.",
-    "Transfer": "Transferring to specialist..."
-  }
 }

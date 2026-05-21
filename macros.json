@@ -8,13 +8,15 @@
 
     "7reels": {
       "Бонусы": {
-        "Тест": "TEST MESSAGE"
-        "type": "inline",
-    "actions": {
-      "1": "Text A",
-      "2": "Text B",
-      "3": "Text C"
-    }
+        "Тест": {
+          "text": "TEST MESSAGE",
+          "type": "inline",
+          "actions": {
+            "1": "Text A",
+            "2": "Text B",
+            "3": "Text C"
+          }
+        }
       }
     }
   }

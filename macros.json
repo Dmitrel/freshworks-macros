@@ -1,10 +1,15 @@
 {
   "profiles": {
     "onlywin": {
-      "Бонусы": {
-        "Бонус 5$": "Вам начислен бонус 5$ 🎉"
-      }
-    },
+        "Приветствие": {
+          "text": "Hello {{user.firstName | Player}}. Welcome to OnlyWin! My name is {{agent.firstName}}. Happy to help you. ",
+          "type": "inline",
+          "actions": {
+            "G": "Hallo {{user.firstName | Player}}. Willkommen bei OnlyWin! Mein Name ist {{agent.firstName}}. Ich helfe dir gerne weiter.",
+            "f": "Bonjour {{user.firstName | Joueur}}. Bienvenue sur OnlyWin ! Je m'appelle {{agent.firstName}}. Je suis ravi de pouvoir vous aider.",
+          }
+        }
+      },
 
     "7reels": {
       "Бонусы": {

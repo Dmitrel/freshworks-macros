@@ -14,7 +14,7 @@
     "7reels": {
       "Бонусы": {
         "Тест": {
-          "text": "TEST MESSAGE",
+          "text": {"Hello {{user.firstName | Player}}. Welcome to OnlyWin! My name is {{agent.firstName}}. Happy to help you. "},
           "type": "inline",
           "actions": {
             "1": "Text A",

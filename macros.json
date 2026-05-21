@@ -16,8 +16,38 @@
             "2": "Text B",
             "3": "Text C"
           }
+        },
+        "Бонусы1": {
+        "Тест": {
+          "text": "TEST MESSAGE",
+          "type": "inline",
+          "actions": {
+            "1": "Text A",
+            "2": "Text B",
+            "3": "Text C"
+          }
         }
       }
+        "Бонусы2": {
+        "Тест": {
+          "text": "TEST MESSAGE",
+          "type": "inline",
+          "actions": {
+            "1": "Text A",
+            "2": "Text B",
+            "3": "Text C"
+          }
+        }
     }
+        "Бонусы3": {
+        "Тест": {
+          "text": "TEST MESSAGE",
+          "type": "inline",
+          "actions": {
+            "1": "Text A",
+            "2": "Text B",
+            "3": "Text C"
+          }
+        }
   }
 }
